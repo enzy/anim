@@ -1,0 +1,20 @@
+{
+  "name": "relay-anim",
+  "version": "1.0.0",
+  "description": "Tiny animation library",
+  "main": "anim.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enzy/anim.git"
+  },
+  "keywords": [
+    "animation",
+    "requestAnimationFrame",
+    "easing"
+  ],
+  "author": "relay (https://github.com/relay)",
+  "bugs": {
+    "url": "https://github.com/enzy/anim/issues"
+  },
+  "homepage": "https://github.com/enzy/anim"
+}
